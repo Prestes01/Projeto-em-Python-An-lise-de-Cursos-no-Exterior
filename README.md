@@ -36,7 +36,7 @@ A análise detalhada do custo de vida revelou grandes variações que impactam o
 
 Destinos de Alto Custo: Cidades como Nova York (EUA) e Londres (Reino Unido) apresentaram os maiores custos mensais de moradia (aluguel), exigindo um planejamento financeiro robusto.
 
-Destinos Acessíveis: Cidades como Lisboa (Portugal) e Dublin (Irlanda) demonstraram um equilíbrio entre qualidade de vida e custo, sendo opções mais viáveis para orçamentos medianos.
+Destinos Acessíveis: Cidades como Halifax (Canadá) e Hobort (Austrália) demonstraram um equilíbrio entre qualidade de vida e custo, sendo opções mais viáveis para orçamentos medianos.
 
 2. Melhores Cursos e Especializações 🎓
 A análise focou em rankings de universidades e na demanda de mercado por especializações:
@@ -51,7 +51,7 @@ O projeto concluiu que o melhor custo-benefício está frequentemente em países
 ⚙️ Como Reproduzir o Projeto (Google Colab)
 Para explorar a análise completa e os gráficos gerados, basta seguir este passo a passo:
 
-Acesse o Notebook: Clique no link do arquivo International_Cost_Education ou abra-o diretamente no Google Colab.
+Acesse o Notebook: Clique no link do arquivo [![Excel](/content/International_Education_Costs.csv) ou abra-o diretamente no Google Colab.
 
 Instale as Dependências: Execute a primeira célula do notebook para instalar as bibliotecas necessárias (!pip install ...).
 
